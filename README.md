@@ -1,6 +1,6 @@
 ## About me
 
-
+My name is Nicholas Randall.
 
 ## 🤖 Technologies
 ![](https://img.shields.io/badge/C-informational?style=for-the-badge&logo=c&logoColor=white&color=blue&labelColor=black)
