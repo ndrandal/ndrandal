@@ -1,7 +1,5 @@
 ## About me
 
-My name is Nicholas Randall, I devolop, program, and utalize statistical anylasis algos.
-
 I am a student persuing a bachelor's in Software Engineering.
 
 ## Technologies
